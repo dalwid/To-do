@@ -1,2 +1,2 @@
-<h1>To do</h1>
+<h3>To do</h3>
 Lista de tarefas simples com js puro bem funcional e belo
